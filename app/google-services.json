@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "107829418519",
+    "firebase_url": "https://livecare-1e4da.firebaseio.com",
+    "project_id": "livecare-1e4da",
+    "storage_bucket": "livecare-1e4da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107829418519:android:f8e710cffe624232",
+        "android_client_info": {
+          "package_name": "com.LC.LiveCareMonitoringSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107829418519-nrdjuo7duo92p75cgemi1ttu8vvuo55r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LC.LiveCareMonitoringSystem",
+            "certificate_hash": "314e83991a534fa3002fa6f18e0ac19ec0184ea9"
+          }
+        },
+        {
+          "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jxGepBThWbVh-LBuoArb_rpLeShrrLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107829418519:android:62a1fd2547a0e00b",
+        "android_client_info": {
+          "package_name": "com.example.livecare.firestoreliveonedummydata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107829418519-oto21ts8du302irhrsufrip16gdp98ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livecare.firestoreliveonedummydata",
+            "certificate_hash": "a6e95be376544512fe98f0a5657f300328e287e0"
+          }
+        },
+        {
+          "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jxGepBThWbVh-LBuoArb_rpLeShrrLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107829418519:android:429f6aa61b2aeb74",
+        "android_client_info": {
+          "package_name": "com.example.livecare.liveone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107829418519-23dpohr1bahgnh2k9976vr2pov4rd3t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livecare.liveone",
+            "certificate_hash": "a6e95be376544512fe98f0a5657f300328e287e0"
+          }
+        },
+        {
+          "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jxGepBThWbVh-LBuoArb_rpLeShrrLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107829418519:android:5ce5d81ea878ecfd",
+        "android_client_info": {
+          "package_name": "com.example.r3l0ad3d.familyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jxGepBThWbVh-LBuoArb_rpLeShrrLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107829418519:android:ebc87477a2373566",
+        "android_client_info": {
+          "package_name": "com.example.r3l0ad3d.pendentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jxGepBThWbVh-LBuoArb_rpLeShrrLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107829418519:android:abf306d58a5a6785",
+        "android_client_info": {
+          "package_name": "com.usa.livecare.liveone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107829418519-tj1m4902i3e84kro7iapqi1259sbq81u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usa.livecare.liveone",
+            "certificate_hash": "a6e95be376544512fe98f0a5657f300328e287e0"
+          }
+        },
+        {
+          "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jxGepBThWbVh-LBuoArb_rpLeShrrLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107829418519-4d2gtattk29jdfrre85b80o8vbjmoonk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
